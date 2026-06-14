@@ -146,7 +146,7 @@ function loadFallbackData() {
     { id:'s6', title:'Midnight Protocol',  artist:'NOIR',           genre:'Electronic', duration:'6:02', src:'' },
     { id:'s7', title:'Cipher',            artist:'Axon',           genre:'Electronic', duration:'4:15', src:'' },
     { id:'s8', title:'Deep Focus',        artist:'Orbital Drift',  genre:'Ambient',    duration:'7:30', src:'' },
-    { id:'s9', title:'After the Storm',   artist:'Luna Grey',      genre:'Soul',       duration:'4:08', src:'' },
+    { id:'s9', title:'One Less Lonely Girl',   artist:'Luna Grey',      genre:'Soul',       duration:'4:08', src:'' },
   ];
   VSS.lyrics = {
     s1: { lines: [

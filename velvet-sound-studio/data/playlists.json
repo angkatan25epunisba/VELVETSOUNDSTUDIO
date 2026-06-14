@@ -1,0 +1,163 @@
+{
+  "playlists": [
+    {
+      "id": "pl1",
+      "name": "Midnight Drive",
+      "description": "Dark highways, neon rain, and the city blurring past. For the solitary hour between midnight and dawn.",
+      "mood": "Nocturnal",
+      "icon": "🌙",
+      "gradient": "linear-gradient(135deg, #0d0820 0%, #16213e 50%, #0f3460 100%)",
+      "songs": ["s1", "s2", "s6", "s9"]
+    },
+    {
+      "id": "pl2",
+      "name": "Luxury Nights",
+      "description": "Silk sheets, cognac, and music that costs more than it sounds. Curated for elevated evenings.",
+      "mood": "Opulent",
+      "icon": "🥂",
+      "gradient": "linear-gradient(135deg, #1a0a00 0%, #3d1c00 50%, #c4a062 100%)",
+      "songs": ["s3", "s4", "s5", "s10"]
+    },
+    {
+      "id": "pl3",
+      "name": "Focus Mode",
+      "description": "No distractions. No compromise. Pure cognitive fuel for the work that demands everything.",
+      "mood": "Focused",
+      "icon": "⚡",
+      "gradient": "linear-gradient(135deg, #0a0f1e 0%, #0d1f3c 50%, #1a3a5c 100%)",
+      "songs": ["s7", "s8", "s11", "s12"]
+    },
+    {
+      "id": "pl4",
+      "name": "Rain Memories",
+      "description": "Nostalgia pressed between grey pages. For rainy afternoons that taste like unfinished stories.",
+      "mood": "Melancholic",
+      "icon": "🌧️",
+      "gradient": "linear-gradient(135deg, #0e1520 0%, #1a2a3a 50%, #243040 100%)",
+      "songs": ["s1", "s4", "s9", "s13"]
+    },
+    {
+      "id": "pl5",
+      "name": "Motivation Zone",
+      "description": "Built for the ones who refuse to stop. Every track earned its place in this vault through fire.",
+      "mood": "Driven",
+      "icon": "🔥",
+      "gradient": "linear-gradient(135deg, #1a0500 0%, #2e0e00 50%, #4a1a00 100%)",
+      "songs": ["s2", "s5", "s7", "s14"]
+    }
+  ],
+  "songs": [
+    {
+      "id": "s1",
+      "title": "Obsidian Nights",
+      "artist": "The Architects",
+      "genre": "Electronic",
+      "duration": "4:22",
+      "src": ""
+    },
+    {
+      "id": "s2",
+      "title": "Carbon Drive",
+      "artist": "NOIR",
+      "genre": "Electronic",
+      "duration": "3:58",
+      "src": ""
+    },
+    {
+      "id": "s3",
+      "title": "Velvet Underground",
+      "artist": "Glass Echo",
+      "genre": "Ambient",
+      "duration": "5:11",
+      "src": ""
+    },
+    {
+      "id": "s4",
+      "title": "Cognac & Rain",
+      "artist": "Luna Grey",
+      "genre": "Jazz",
+      "duration": "4:44",
+      "src": ""
+    },
+    {
+      "id": "s5",
+      "title": "Gold Rush",
+      "artist": "The Architects",
+      "genre": "Electronic",
+      "duration": "3:37",
+      "src": ""
+    },
+    {
+      "id": "s6",
+      "title": "Midnight Protocol",
+      "artist": "NOIR",
+      "genre": "Electronic",
+      "duration": "6:02",
+      "src": ""
+    },
+    {
+      "id": "s7",
+      "title": "Cipher",
+      "artist": "Axon",
+      "genre": "Electronic",
+      "duration": "4:15",
+      "src": ""
+    },
+    {
+      "id": "s8",
+      "title": "Deep Focus",
+      "artist": "Orbital Drift",
+      "genre": "Ambient",
+      "duration": "7:30",
+      "src": ""
+    },
+    {
+      "id": "s9",
+      "title": "After the Storm",
+      "artist": "Luna Grey",
+      "genre": "Soul",
+      "duration": "4:08",
+      "src": ""
+    },
+    {
+      "id": "s10",
+      "title": "Champagne Static",
+      "artist": "Glass Echo",
+      "genre": "Jazz",
+      "duration": "5:28",
+      "src": ""
+    },
+    {
+      "id": "s11",
+      "title": "Dark Lattice",
+      "artist": "Axon",
+      "genre": "Electronic",
+      "duration": "5:55",
+      "src": ""
+    },
+    {
+      "id": "s12",
+      "title": "Threshold",
+      "artist": "Orbital Drift",
+      "genre": "Ambient",
+      "duration": "8:10",
+      "src": ""
+    },
+    {
+      "id": "s13",
+      "title": "Grey Afternoon",
+      "artist": "Luna Grey",
+      "genre": "Soul",
+      "duration": "3:52",
+      "src": ""
+    },
+    {
+      "id": "s14",
+      "title": "Iron Will",
+      "artist": "NOIR",
+      "genre": "Electronic",
+      "duration": "4:30",
+      "src": ""
+    }
+  ]
+}
